@@ -1,0 +1,4 @@
+{"timestamp":"2026-07-17T11:35:33.486514Z","type":"SYSTEM","message":"Starting v12 full-GATT relay and persistent capture","hex":null}
+{"timestamp":"2026-07-17T11:35:33.511160Z","type":"ADAPTER","message":"Rename accepted=true","hex":null}
+{"timestamp":"2026-07-17T11:35:33.513007Z","type":"REAL-MLM","message":"Scanning for MLM-B2229A3BDAEC","hex":null}
+{"timestamp":"2026-07-17T11:35:35.748987Z","type":"PREFLIGHT","message":"Button self-test event","hex":null}
